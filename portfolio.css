@@ -1,0 +1,57 @@
+body{
+    background-color: pink;
+}
+
+.img1{
+    border-radius: 50%;
+    margin-left: 70%;
+    margin-top: 100px;
+}
+
+.p1{
+    margin-left: 20%;
+    margin-top: 125px;
+    position: absolute;
+    font-size: 60px;
+}
+.p2{
+    margin-left: 20%;
+    margin-top: 200px;
+    position: absolute;
+    font-size:50px;
+    font-weight: 700;
+    color: orangered;
+}
+.p3{
+    margin-left: 24%;
+    margin-top:280px;
+    position: absolute;
+    font-size: 20px;
+}
+.p4{
+    margin-left:20%;
+    margin-top: 380px;
+    position: absolute;
+    font-size: 24px;
+
+}
+  .footer-line {
+            border-top: 3px solid white;
+            padding: 10px 0;
+            margin-top: 18%;
+        }
+.p5{
+    margin-left: 5%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.follow{
+    margin-left: 80%;
+    position: absolute;
+    margin-top: -70px;
+    
+}
+.icons{
+    display: inline;
+    margin-right: 30px;
+}
